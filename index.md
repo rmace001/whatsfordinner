@@ -2,15 +2,17 @@
 
 {% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=1 h_max=4 %}
 
-# Turkey lettuce wraps with cilantro lime yogurt sauce
+---
 
-**Turkey**
+## Turkey lettuce wraps with cilantro lime yogurt sauce
+
+### Turkey
 
 - avocado oil
 - seasonings
 - Cheese
 
-**Sauce**
+### Sauce
 
 - Greek yogurt plain
 - 1/2 large lime juice with full lime zest
@@ -18,16 +20,16 @@
 - 3 Garlic cloves
 - Salt/pepper
 
-**Toppings**
+### Toppings
 
 - Avocado
 - cholula hot sauce
 
-# Ground turkey and arugula salad
+---
 
-<!-- ![turkeyandarugula](turkeyandarugula.jpeg) -->
+## Ground turkey and arugula salad
 
-**Items**
+![turkeyandarugula](turkeyandarugula.jpeg)
 
 - Ground turkey
 - Arugula salad (olive oil, lemon, balsamic, salt/pepper, parmesan, almond shavings)
@@ -35,9 +37,9 @@
 
 ---
 
-# Chicken, broccoli, & potatoes
+## Chicken, broccoli, & potatoes
 
-<!-- ![chickenandbroccoli](chickenandbroccoli.jpeg) -->
+![chickenandbroccoli](chickenandbroccoli.jpeg)
 
 - Raw broccoli
 - baked chicken breast
@@ -142,9 +144,9 @@
 
 ---
 
-## Side Dishes
+# Side Dishes
 
-### Cabbage stir fry
+## Cabbage stir fry
 
 - recipe 1:
   - 1/2 napa cabbage
@@ -165,19 +167,19 @@
 
 ---
 
-### Bell peppers and onions
+## Bell peppers and onions
 
 - todo
 
 ---
 
-### Onions and mushrooms
+## Onions and mushrooms
 
 - todo
 
 ---
 
-### Cucumber and onion pico
+## Cucumber and onion pico
 
 - English cucumber small
 - Red onion
@@ -190,7 +192,7 @@
 
 ---
 
-### Cucumber radish salad
+## Cucumber radish salad
 
 ![cucumberradishsalad](cucumberradishsalad.png)
 
@@ -198,13 +200,13 @@
 
 ---
 
-### Orange sesame salad
+## Orange sesame salad
 
 - https://www.instagram.com/reel/DFTl1XwSB20/?igsh=MXdnOGhsaG00cW81dw==
 
 ---
 
-### Sourdough mozzarella bruschetta
+## Sourdough mozzarella bruschetta
 
 - olive oil
 - basil
@@ -215,7 +217,7 @@
 
 ---
 
-### Zucchini Salsa
+## Zucchini Salsa
 
 - Jalapeño
 - Tomatillo
@@ -227,7 +229,7 @@
 - Salt
 - Water
 
-### Salad with mustard dressing lime
+## Salad with mustard dressing lime
 
 - Lime
 - Mustard
@@ -237,9 +239,9 @@
 
 ---
 
-## Appendix
+# Appendix
 
-### Cajun butter shrimp (15 shrimp)
+## Cajun butter shrimp (15 shrimp)
 
 - Thawed shrimp
 - Heat pan to medium heat and throw in3 tbsp of butter and 1.5 tbsp of minced garlic
@@ -250,7 +252,7 @@
 
 ---
 
-### Sushi rice
+## Sushi rice
 
 - 2 cup rice and water each
 - 1 tbsp salt
@@ -264,7 +266,7 @@
 
 ---
 
-### Smoothies
+## Smoothies
 
 1. Classic Green Smoothie
 
@@ -366,9 +368,9 @@
 
 ---
 
-### Chicken Gyro Wraps
+## Chicken Gyro Wraps
 
-#### Tzatziki Sauce
+### Tzatziki Sauce
 
 - cup Greek Yogurt
 - Salt
@@ -379,7 +381,7 @@
 - cucumber grated AND strained
 - chopped dill
 
-#### Chicken Marinade
+### Chicken Marinade
 
 - cup Greek Yogurt
 - Salt
@@ -392,7 +394,7 @@
 - teaspoon of smoked paprika
 - Juice of 1 lemon
 
-#### Vegetable Meadly
+### Vegetable Meadly
 
 - 1 cucumber
 - 2 roma tomato
@@ -404,7 +406,7 @@
 
 ---
 
-### Turkish pasta
+## Turkish pasta
 
 - ground beef
 - Pasta
@@ -416,13 +418,13 @@
 - Cherry Tomato
 - Parsley
 
-#### Sauce
+### Sauce
 
 - Greek yogurt
 - Garlic
 - Sauce
 
-#### Butter sauce
+### Butter sauce
 
 - melted butter
 - Dried mint
@@ -430,7 +432,7 @@
 - Chili flakes
 - Paprika
 
-#### Side
+### Side
 
 Broccolini and carrots
 
