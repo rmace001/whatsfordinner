@@ -4,13 +4,13 @@
 
 # Turkey lettuce wraps with cilantro lime yogurt sauce
 
-## Turkey
+**Turkey**
 
 - avocado oil
 - seasonings
 - Cheese
 
-## Sauce
+**Sauce**
 
 - Greek yogurt plain
 - 1/2 large lime juice with full lime zest
@@ -18,7 +18,7 @@
 - 3 Garlic cloves
 - Salt/pepper
 
-## Toppings
+**Toppings**
 
 - Avocado
 - cholula hot sauce
@@ -27,7 +27,7 @@
 
 ![turkeyandarugula](turkeyandarugula.jpeg)
 
-## Items
+**Items**
 
 - Ground turkey
 - Arugula salad (olive oil, lemon, balsamic, salt/pepper, parmesan, almond shavings)
