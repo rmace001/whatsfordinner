@@ -21,7 +21,7 @@
 
 # Ground turkey and arugula salad
 
-![turkeyandarugula](../turkeyandarugula.jpeg)
+![turkeyandarugula](turkeyandarugula.jpeg)
 
 - Ground turkey
 - Arugula salad (olive oil, lemon, balsamic, salt/pepper, parmesan, almond shavings)
@@ -29,7 +29,7 @@
 
 # Chicken, broccoli, & potatoes
 
-![chickenandbroccoli](../chickenandbroccoli.jpeg)
+![chickenandbroccoli](chickenandbroccoli.jpeg)
 
 - Raw broccoli
 - baked chicken breast
@@ -39,7 +39,7 @@
 
 # Salmon filet w/side cabbage stir fry
 
-![salmonfiletcabbage](../salmonfiletcabbage.jpeg)
+![salmonfiletcabbage](salmonfiletcabbage.jpeg)
 
 - Salmon
 - brown rice
@@ -47,7 +47,7 @@
 
 # Steak and potatoes w/onions and bell peppers
 
-![alt text](../steakpotatoesandveggies.jpeg)
+![alt text](steakpotatoesandveggies.jpeg)
 
 - Skirt Steak
 - deglaze pan with onions and bell peppers
@@ -55,7 +55,7 @@
 
 # Cajun shrimp with cauliflower rice and cucumber
 
-![cajunshrimp](../cajunshrimp.jpeg)
+![cajunshrimp](cajunshrimp.jpeg)
 
 - cajun butter shrimp
 - cauliflower rice
@@ -63,7 +63,7 @@
 
 # Cajun chicken with broccoli, carrots, rice or quinoa
 
-![cajunchicken](../cajunchicken.jpeg)
+![cajunchicken](cajunchicken.jpeg)
 
 - Baked chicken breast
 - Organic raw broccoli and carrot
@@ -94,25 +94,25 @@
 
 # Asian tuna salad
 
-![asiantunasalad](../asiantunasalad.jpeg)
+![asiantunasalad](asiantunasalad.jpeg)
 
 - https://www.instagram.com/reel/DDIYr2WzSD2/?igsh=N2RmYjBzenN4M2Rh
 
 # Shrimp sushi bowls
 
-![shrimpsushibowls](../shrimpsushibowls.jpeg)
+![shrimpsushibowls](shrimpsushibowls.jpeg)
 
 - https://www.instagram.com/reel/DFBn7fxSOMi/?igsh=Z3lhcHhtdzg0eWd1
 
 # Chicken caesar salad
 
-![chickencaesarsalad](../chickencaesarsalad.jpeg)
+![chickencaesarsalad](chickencaesarsalad.jpeg)
 
 - todo
 
 # Lettuce burgers and sweet potato fries airfryed
 
-![lettuceburgers](../lettuceburgers.jpeg)
+![lettuceburgers](lettuceburgers.jpeg)
 
 - todo
 
@@ -166,7 +166,7 @@
 
 ## Cucumber radish salad
 
-![cucumberradishsalad](../cucumberradishsalad.png)
+![cucumberradishsalad](cucumberradishsalad.png)
 
 - [Cucumber Radish Salad link](https://downshiftology.com/recipes/cucumber-radish-salad/)
 
