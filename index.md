@@ -1,6 +1,6 @@
 # What's for dinner?
 
-{% include toc.html depth="3" %}
+{% include toc.html html=content %}
 
 ---
 
