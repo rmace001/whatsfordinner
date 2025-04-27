@@ -4,15 +4,15 @@
 
 ---
 
-# Turkey lettuce wraps with cilantro lime yogurt sauce
+## Turkey lettuce wraps with cilantro lime yogurt sauce
 
-## Turkey
+### Turkey
 
 - avocado oil
 - seasonings
 - Cheese
 
-## Sauce
+### Sauce
 
 - Greek yogurt plain
 - 1/2 large lime juice with full lime zest
@@ -20,14 +20,14 @@
 - 3 Garlic cloves
 - Salt/pepper
 
-## Toppings
+### Toppings
 
 - Avocado
 - cholula hot sauce
 
 ---
 
-# Ground turkey and arugula salad
+## Ground turkey and arugula salad
 
 ![turkeyandarugula](turkeyandarugula.jpeg)
 
@@ -37,7 +37,7 @@
 
 ---
 
-# Chicken, broccoli, & potatoes
+## Chicken, broccoli, & potatoes
 
 ![chickenandbroccoli](chickenandbroccoli.jpeg)
 
@@ -47,7 +47,7 @@
 
 ---
 
-# Salmon filet w/side cabbage stir fry
+## Salmon filet w/side cabbage stir fry
 
 ![salmonfiletcabbage](salmonfiletcabbage.jpeg)
 
@@ -57,7 +57,7 @@
 
 ---
 
-# Steak and potatoes w/onions and bell peppers
+## Steak and potatoes w/onions and bell peppers
 
 ![alt text](steakpotatoesandveggies.jpeg)
 
@@ -67,7 +67,7 @@
 
 ---
 
-# Cajun shrimp with cauliflower rice and cucumber
+## Cajun shrimp with cauliflower rice and cucumber
 
 ![cajunshrimp](cajunshrimp.jpeg)
 
@@ -77,7 +77,7 @@
 
 ---
 
-# Cajun chicken with broccoli, carrots, rice or quinoa
+## Cajun chicken with broccoli, carrots, rice or quinoa
 
 ![cajunchicken](cajunchicken.jpeg)
 
@@ -87,9 +87,9 @@
 
 ---
 
-# Quinoa turkey bowls
+## Quinoa turkey bowls
 
-## Stir fry
+### Stir fry
 
 - Garlic
 - Bell pepper
@@ -97,13 +97,13 @@
 - Green onion
 - Olive oil
 
-## Sear
+### Sear
 
 - Ground turkey
 - Steam
 - Quinoa
 
-## Top with
+### Top with
 
 - Lime slice
 - Cilantro
@@ -112,7 +112,7 @@
 
 ---
 
-# Asian tuna salad
+## Asian tuna salad
 
 ![asiantunasalad](asiantunasalad.jpeg)
 
@@ -120,7 +120,7 @@
 
 ---
 
-# Shrimp sushi bowls
+## Shrimp sushi bowls
 
 ![shrimpsushibowls](shrimpsushibowls.jpeg)
 
@@ -128,7 +128,7 @@
 
 ---
 
-# Chicken caesar salad
+## Chicken caesar salad
 
 ![chickencaesarsalad](chickencaesarsalad.jpeg)
 
@@ -136,7 +136,7 @@
 
 ---
 
-# Lettuce burgers and sweet potato fries airfryed
+## Lettuce burgers and sweet potato fries airfryed
 
 ![lettuceburgers](lettuceburgers.jpeg)
 
