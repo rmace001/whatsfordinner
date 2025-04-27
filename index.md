@@ -27,6 +27,8 @@
 
 ![turkeyandarugula](turkeyandarugula.jpeg)
 
+### Items
+
 - Ground turkey
 - Arugula salad (olive oil, lemon, balsamic, salt/pepper, parmesan, almond shavings)
 - Raw broccoli + carrots
