@@ -1,6 +1,6 @@
 # What's for dinner?
 
-{% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=2 h_max=4 %}
+{% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=1 h_max=4 %}
 
 ---
 
