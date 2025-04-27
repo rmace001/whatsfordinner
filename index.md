@@ -1,10 +1,6 @@
 # What's for dinner?
 
-<div class='col-md-2 col-xs-0'>
-    <div class="toc">
-      {% include toc.html html=content%}
-    </div>
-</div>
+{% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=1 h_max=4 %}
 
 ## Turkey lettuce wraps with cilantro lime yogurt sauce
 
