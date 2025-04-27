@@ -1,6 +1,6 @@
 # What's for dinner?
 
-{% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=1 h_max=4 %}
+{% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=2 h_max=4 %}
 
 ---
 
@@ -144,9 +144,9 @@
 
 ---
 
-# Side Dishes
+## Side Dishes
 
-## Cabbage stir fry
+### Cabbage stir fry
 
 - recipe 1:
   - 1/2 napa cabbage
@@ -167,19 +167,19 @@
 
 ---
 
-## Bell peppers and onions
+### Bell peppers and onions
 
 - todo
 
 ---
 
-## Onions and mushrooms
+### Onions and mushrooms
 
 - todo
 
 ---
 
-## Cucumber and onion pico
+### Cucumber and onion pico
 
 - English cucumber small
 - Red onion
@@ -192,7 +192,7 @@
 
 ---
 
-## Cucumber radish salad
+### Cucumber radish salad
 
 ![cucumberradishsalad](cucumberradishsalad.png)
 
@@ -200,13 +200,13 @@
 
 ---
 
-## Orange sesame salad
+### Orange sesame salad
 
 - https://www.instagram.com/reel/DFTl1XwSB20/?igsh=MXdnOGhsaG00cW81dw==
 
 ---
 
-## Sourdough mozzarella bruschetta
+### Sourdough mozzarella bruschetta
 
 - olive oil
 - basil
@@ -217,7 +217,7 @@
 
 ---
 
-## Zucchini Salsa
+### Zucchini Salsa
 
 - Jalapeño
 - Tomatillo
@@ -229,7 +229,7 @@
 - Salt
 - Water
 
-## Salad with mustard dressing lime
+### Salad with mustard dressing lime
 
 - Lime
 - Mustard
@@ -239,9 +239,9 @@
 
 ---
 
-# Appendix
+## Appendix
 
-## Cajun butter shrimp (15 shrimp)
+### Cajun butter shrimp (15 shrimp)
 
 - Thawed shrimp
 - Heat pan to medium heat and throw in3 tbsp of butter and 1.5 tbsp of minced garlic
@@ -252,7 +252,7 @@
 
 ---
 
-## Sushi rice
+### Sushi rice
 
 - 2 cup rice and water each
 - 1 tbsp salt
@@ -266,9 +266,9 @@
 
 ---
 
-## Smoothies
+### Smoothies
 
-1. Classic Green Smoothie
+#### 1. Classic Green Smoothie
 
 - Ingredients:
 - 1 cup spinach
@@ -280,7 +280,7 @@
 
 ---
 
-2. Tropical Paradise Smoothie
+#### 2. Tropical Paradise Smoothie
 
 - Ingredients:
 - 1 cup kale
@@ -291,7 +291,7 @@
 
 ---
 
-3. Berry Blast Smoothie
+#### 3. Berry Blast Smoothie
 
 - Ingredients:
 - 1 cup mixed berries (strawberries, blueberries, raspberries)
@@ -302,7 +302,7 @@
 
 ---
 
-4. Avocado Mint Smoothie
+#### 4. Avocado Mint Smoothie
 
 - Ingredients:
 - 1 ripe avocado
@@ -313,7 +313,7 @@
 
 ---
 
-6. Peanut Butter Banana Smoothie
+#### 6. Peanut Butter Banana Smoothie
 
 - Ingredients:
 - 2 ripe bananas
@@ -324,7 +324,7 @@
 
 ---
 
-7. Chocolate Banana Protein Smoothie
+#### 7. Chocolate Banana Protein Smoothie
 
 - Ingredients:
 - 2 ripe bananas
@@ -335,7 +335,7 @@
 
 ---
 
-8. Mango Lassi Smoothie
+#### 8. Mango Lassi Smoothie
 
 - Ingredients:
 - 1 cup ripe mango chunks
@@ -346,7 +346,7 @@
 
 ---
 
-9. Blueberry Almond Delight
+#### 9. Blueberry Almond Delight
 
 - Ingredients:
 - 1 cup blueberries
@@ -357,7 +357,7 @@
 
 ---
 
-10. Spinach and Pineapple Green Smoothie
+1#### 0. Spinach and Pineapple Green Smoothie
 
 - Ingredients:
 - 1 cup spinach
@@ -368,9 +368,9 @@
 
 ---
 
-## Chicken Gyro Wraps
+### Chicken Gyro Wraps
 
-### Tzatziki Sauce
+#### Tzatziki Sauce
 
 - cup Greek Yogurt
 - Salt
@@ -381,7 +381,7 @@
 - cucumber grated AND strained
 - chopped dill
 
-### Chicken Marinade
+#### Chicken Marinade
 
 - cup Greek Yogurt
 - Salt
@@ -394,7 +394,7 @@
 - teaspoon of smoked paprika
 - Juice of 1 lemon
 
-### Vegetable Meadly
+#### Vegetable Meadly
 
 - 1 cucumber
 - 2 roma tomato
@@ -406,7 +406,7 @@
 
 ---
 
-## Turkish pasta
+### Turkish pasta
 
 - ground beef
 - Pasta
@@ -418,13 +418,13 @@
 - Cherry Tomato
 - Parsley
 
-### Sauce
+#### Sauce
 
 - Greek yogurt
 - Garlic
 - Sauce
 
-### Butter sauce
+#### Butter sauce
 
 - melted butter
 - Dried mint
@@ -432,7 +432,7 @@
 - Chili flakes
 - Paprika
 
-### Side
+#### Side
 
 Broccolini and carrots
 
