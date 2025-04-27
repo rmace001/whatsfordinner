@@ -1,5 +1,7 @@
 # What's for dinner?
 
+{% include toc.html depth="3" %}
+
 ---
 
 # Turkey lettuce wraps with cilantro lime yogurt sauce
