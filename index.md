@@ -33,6 +33,8 @@
 - Arugula salad (olive oil, lemon, balsamic, salt/pepper, parmesan, almond shavings)
 - Raw broccoli + carrots
 
+---
+
 # Chicken, broccoli, & potatoes
 
 ![chickenandbroccoli](chickenandbroccoli.jpeg)
