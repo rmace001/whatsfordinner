@@ -2,8 +2,6 @@
 
 {% include toc.html html=content %}
 
----
-
 ## Turkey lettuce wraps with cilantro lime yogurt sauce
 
 ### Turkey
@@ -24,8 +22,6 @@
 
 - Avocado
 - cholula hot sauce
-
----
 
 ## Ground turkey and arugula salad
 
