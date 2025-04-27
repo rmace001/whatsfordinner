@@ -25,7 +25,7 @@
 
 # Ground turkey and arugula salad
 
-![turkeyandarugula](turkeyandarugula.jpeg)
+<!-- ![turkeyandarugula](turkeyandarugula.jpeg) -->
 
 **Items**
 
@@ -37,7 +37,7 @@
 
 # Chicken, broccoli, & potatoes
 
-![chickenandbroccoli](chickenandbroccoli.jpeg)
+<!-- ![chickenandbroccoli](chickenandbroccoli.jpeg) -->
 
 - Raw broccoli
 - baked chicken breast
