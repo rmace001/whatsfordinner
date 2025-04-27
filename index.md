@@ -1,5 +1,7 @@
 # What's for dinner?
 
+---
+
 # Turkey lettuce wraps with cilantro lime yogurt sauce
 
 ### Turkey
@@ -20,6 +22,8 @@
 
 - Avocado
 - cholula hot sauce
+
+---
 
 # Ground turkey and arugula salad
 
@@ -47,6 +51,8 @@
 - brown rice
 - Steamed cabbage
 
+---
+
 # Steak and potatoes w/onions and bell peppers
 
 ![alt text](steakpotatoesandveggies.jpeg)
@@ -54,6 +60,8 @@
 - Skirt Steak
 - deglaze pan with onions and bell peppers
 - potatoes
+
+---
 
 # Cajun shrimp with cauliflower rice and cucumber
 
@@ -63,6 +71,8 @@
 - cauliflower rice
 - celery + cucumber
 
+---
+
 # Cajun chicken with broccoli, carrots, rice or quinoa
 
 ![cajunchicken](cajunchicken.jpeg)
@@ -70,6 +80,8 @@
 - Baked chicken breast
 - Organic raw broccoli and carrot
 - Brown rice or white rice
+
+---
 
 # Quinoa turkey bowls
 
@@ -94,11 +106,15 @@
 - Avocado
 - Salsa
 
+---
+
 # Asian tuna salad
 
 ![asiantunasalad](asiantunasalad.jpeg)
 
 - https://www.instagram.com/reel/DDIYr2WzSD2/?igsh=N2RmYjBzenN4M2Rh
+
+---
 
 # Shrimp sushi bowls
 
@@ -106,17 +122,23 @@
 
 - https://www.instagram.com/reel/DFBn7fxSOMi/?igsh=Z3lhcHhtdzg0eWd1
 
+---
+
 # Chicken caesar salad
 
 ![chickencaesarsalad](chickencaesarsalad.jpeg)
 
 - todo
 
+---
+
 # Lettuce burgers and sweet potato fries airfryed
 
 ![lettuceburgers](lettuceburgers.jpeg)
 
 - todo
+
+---
 
 # Side Dishes
 
@@ -211,6 +233,8 @@
 - Olive oil
 - Crushed pepper
 
+---
+
 # Appendix
 
 ## Cajun butter shrimp (15 shrimp)
@@ -221,6 +245,8 @@
 - Throw in shrimp with a qtr cup of water
 - Generously season contents in pan
 - Cook 5 min each side and add lemon juice right before flipping
+
+---
 
 ## Sushi rice
 
@@ -248,6 +274,8 @@
 - 1 tablespoon honey
 - Ice cubes
 
+---
+
 2. Tropical Paradise Smoothie
 
 - Ingredients:
@@ -256,6 +284,8 @@
 - 1/2 cup mango chunks
 - 1/2 cup coconut milk
 - 1 tablespoon chia seeds
+
+---
 
 3. Berry Blast Smoothie
 
@@ -266,6 +296,8 @@
 - 1/2 cup water
 - 1 tablespoon honey
 
+---
+
 4. Avocado Mint Smoothie
 
 - Ingredients:
@@ -274,6 +306,8 @@
 - 1/2 cup spinach
 - 1 cup coconut water
 - 1 tablespoon lime juice
+
+---
 
 6. Peanut Butter Banana Smoothie
 
@@ -284,6 +318,8 @@
 - 1 tablespoon honey
 - Ice cubes
 
+---
+
 7. Chocolate Banana Protein Smoothie
 
 - Ingredients:
@@ -292,6 +328,8 @@
 - 1 scoop chocolate protein powder
 - 1 cup milk of your choice
 - Ice cubes
+
+---
 
 8. Mango Lassi Smoothie
 
@@ -302,6 +340,8 @@
 - 1 tablespoon honey
 - A pinch of cardamom
 
+---
+
 9. Blueberry Almond Delight
 
 - Ingredients:
@@ -310,6 +350,8 @@
 - 1/2 cup Greek yogurt
 - 1/2 cup almond milk
 - 1 tablespoon honey
+
+---
 
 10. Spinach and Pineapple Green Smoothie
 
