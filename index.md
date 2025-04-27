@@ -1,7 +1,7 @@
 # What's for dinner?
 
-- TOC
-  {:toc}
+* TOC
+{:toc}
 
 ---
 
