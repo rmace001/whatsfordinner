@@ -6,13 +6,13 @@
 
 # Turkey lettuce wraps with cilantro lime yogurt sauce
 
-### Turkey
+## Turkey
 
 - avocado oil
 - seasonings
 - Cheese
 
-### Sauce
+## Sauce
 
 - Greek yogurt plain
 - 1/2 large lime juice with full lime zest
@@ -20,7 +20,7 @@
 - 3 Garlic cloves
 - Salt/pepper
 
-### Toppings
+## Toppings
 
 - Avocado
 - cholula hot sauce
@@ -89,7 +89,7 @@
 
 # Quinoa turkey bowls
 
-### Stir fry
+## Stir fry
 
 - Garlic
 - Bell pepper
@@ -97,13 +97,13 @@
 - Green onion
 - Olive oil
 
-### Sear
+## Sear
 
 - Ground turkey
 - Steam
 - Quinoa
 
-### Top with
+## Top with
 
 - Lime slice
 - Cilantro
