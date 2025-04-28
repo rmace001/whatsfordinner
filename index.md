@@ -155,6 +155,8 @@
 
 - [Korean cabbage salad](https://mykoreankitchen.com/sweet-and-tangy-cabbage-salad/)
 
+---
+
 ### Cabbage stir fry
 
 - recipe 1:
