@@ -9,7 +9,7 @@
 
 ### Turkey lettuce wraps with cilantro lime yogurt sauce
 
-![turkeywraps](IMG_3542.png)
+![turkeywraps](IMG_3542.jpeg)
 
 #### Turkey
 
