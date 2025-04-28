@@ -9,6 +9,8 @@
 
 ### Turkey lettuce wraps with cilantro lime yogurt sauce
 
+![turkeywraps](IMG_3542.png)
+
 #### Turkey
 
 - avocado oil
