@@ -151,6 +151,10 @@
 
 ## Side Dishes
 
+### Sweet and tangy Korean cabbage salad
+
+- [Korean cabbage salad](https://mykoreankitchen.com/sweet-and-tangy-cabbage-salad/)
+
 ### Cabbage stir fry
 
 - recipe 1:
