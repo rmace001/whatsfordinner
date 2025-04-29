@@ -23,7 +23,7 @@ card.appendChild(heading);
 
 // Create the image
 const image = document.createElement('img');
-image.src = 'IMG_3542.jpeg'; // Replace with your image URL
+image.src = 'IMG_3554.jpeg'; // Replace with your image URL
 image.alt = 'Card image';
 image.style.width = '100%';
 image.style.height = 'auto';
