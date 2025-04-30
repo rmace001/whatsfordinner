@@ -47,15 +47,17 @@
 - balsamic
 - salt/pepper
 - parmesan
-- almond shavings)
+- almond shavings
 
-#### Raw broccoli + carrots
+#### Veggies
 
-- NA
+- Raw broccoli + carrots
 
 ---
 
 ### Chicken, broccoli, & potatoes
+
+#### Image
 
 ![chickenandbroccoli](chickenandbroccoli.jpeg)
 
@@ -64,9 +66,9 @@
 - Avocado oil
 - cajun, or Montreal Chicken
 
-#### Raw broccoli
+#### Veggies
 
-- NA
+- Raw broccoli
 
 #### Potatoes
 
@@ -78,45 +80,96 @@
 
 ### Salmon filet w/side cabbage stir fry
 
+#### Image
+
 ![salmonfiletcabbage](salmonfiletcabbage.jpeg)
 
-- Salmon
-- brown rice
-- Steamed cabbage
+#### Salmon
+
+- Salt
+- Pepper
+- Garlic powder
+- Old bay seasoning
+
+#### Cabbage stir fry
+
+- Recipe 1 (below under Side dishes)
+
+#### Grain
+
+- Rice
 
 ---
 
 ### Steak and potatoes w/onions and bell peppers
 
-![alt text](steakpotatoesandveggies.jpeg)
+#### Image
 
-- Skirt Steak
+![steakandpotatoes](steakpotatoesandveggies.jpeg)
+
+#### Skirt Steak
+
+- Montreal steak seasoning
+- Kerrygold unsalted butter
+
+#### Onions & bell peppers
+
 - deglaze pan with onions and bell peppers
-- potatoes
+
+#### Potatoes
+
+- Avocado oil spray
+- salt and pepper, or cajun, or tuffle salt
+- airfry or bake
 
 ---
 
 ### Cajun shrimp with cauliflower rice and cucumber
 
+#### Image
+
 ![cajunshrimp](cajunshrimp.jpeg)
 
-- cajun butter shrimp
-- cauliflower rice
-- celery + cucumber
+#### Shrimp
+
+- peel and de-vein
+- wash and pat dry
+- cajun seasoning
+- butter
+- Flip once and squeeze lemon juice
+
+#### Veggies
+
+- Celery + cucumber
 
 ---
 
 ### Cajun chicken with broccoli, carrots, rice or quinoa
 
+#### Image
+
 ![cajunchicken](cajunchicken.jpeg)
 
-- Baked chicken breast
-- Organic raw broccoli and carrot
+#### Chicken breast
+
+- bake or air fry
+- cajun seasoning
+
+#### Veggies
+
+- raw broccoli and carrot
+
+#### Grain
+
 - Brown rice or white rice
 
 ---
 
 ### Quinoa turkey bowls
+
+#### Image
+
+![quinoabowls](quinoabowls.jpeg)
 
 #### Stir fry
 
@@ -143,25 +196,41 @@
 
 ### Asian tuna salad
 
+#### Image
+
 ![asiantunasalad](asiantunasalad.jpeg)
 
-- https://www.instagram.com/reel/DDIYr2WzSD2/?igsh=N2RmYjBzenN4M2Rh
+#### Link
+
+- [instagram link](https://www.instagram.com/reel/DDIYr2WzSD2/?igsh=N2RmYjBzenN4M2Rh)
 
 ---
 
 ### Shrimp sushi bowls
 
+#### Image
+
 ![shrimpsushibowls](shrimpsushibowls.jpeg)
 
-- https://www.instagram.com/reel/DFBn7fxSOMi/?igsh=Z3lhcHhtdzg0eWd1
+#### Link
+
+- [instagram link](https://www.instagram.com/reel/DFBn7fxSOMi/?igsh=Z3lhcHhtdzg0eWd1)
 
 ---
 
 ### Chicken caesar salad
 
+#### Image
+
 ![chickencaesarsalad](chickencaesarsalad.jpeg)
 
-- todo
+#### Items
+
+- Mary's caesar dressing
+- kale or lettuce
+- salt
+- lemon juice
+- freshly grated parmigiano
 
 ---
 
