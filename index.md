@@ -6,8 +6,8 @@
 
 <script src="script.js"></script>
 
-- TOC
-  {:toc}
+* TOC
+{:toc}
 
 ---
 
