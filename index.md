@@ -287,7 +287,94 @@ document.getElementById('card-container').appendChild(card);
 
 ![lettuceburgers](lettuceburgers.jpeg)
 
-- todo
+##### Burgers
+
+- Wash and dry lettuce leaves
+- Cook patties and add montreal steak seasoning
+- add desired cheese
+- add desired condiments and and toppings
+
+#### Fries
+
+- Sweet potatoes
+- avocado oil spray
+- salt/pepper (or truffle salt)
+
+### Chicken Gyro Wraps
+
+#### Image
+
+![gyrowraps](gyrowraps.jpeg)
+
+#### Tzatziki Sauce
+
+- cup Greek Yogurt
+- Salt
+- Pepper
+- 3 garlic cloves
+- tablespoon of olive oil
+- Juice of 1 lemon
+- cucumber grated AND strained
+- chopped dill
+
+#### Chicken Marinade
+
+- cup Greek Yogurt
+- Salt
+- Pepper
+- 3 garlic cloves
+- tablespoon of red wine vinegar
+- tablespoon of olive oil
+- teaspoon of ground coriander
+- tablespoon of oreagano
+- teaspoon of smoked paprika
+- Juice of 1 lemon
+
+#### Vegetable Meadly
+
+- 1 cucumber
+- 2 roma tomato
+- 1/2 red onion
+- 1 tablespoon red wine vinegar
+- 1/4 cup parsley
+- salt
+- pepper
+
+---
+
+### Turkish pasta
+
+#### Image
+
+![turkishpasta](turkishpasta.jpeg)
+
+- ground beef
+- Pasta
+- Paprika
+- Curry powder
+- Onion powder
+- Salt/pepper
+- Yellow onion
+- Cherry Tomato
+- Parsley
+
+#### Sauce
+
+- Greek yogurt
+- Garlic
+- Sauce
+
+#### Butter sauce
+
+- melted butter
+- Dried mint
+- Olive oil
+- Chili flakes
+- Paprika
+
+#### Side
+
+Broccolini and carrots
 
 ---
 
@@ -301,38 +388,52 @@ document.getElementById('card-container').appendChild(card);
 
 ### Cabbage stir fry
 
-- recipe 1:
-  - 1/2 napa cabbage
-  - olive oil
-  - garlic
-  - oyster sauce
-  - asian chicken powder/lee kum kee 1/4 tea spoon
-  - 1 teaspoon sugar
-  - salt
-  - when cabbage is translucent, quarter table spoon of oyster sauce, add to taste
-- recipe 2:
-  - mix in a bowl
-    - 2 tbsp oyster sauce
-    - 2 tbsp warm water
-  - then sauté as much garlic as desired,
-  - full teaspoon of sugar
-- recipe 3: panda express teriyaki sauce
+#### Recipe 1
+
+- 1/2 napa cabbage
+- olive oil
+- garlic
+- oyster sauce
+- asian chicken powder/lee kum kee 1/4 tea spoon
+- 1 teaspoon sugar
+- salt
+- when cabbage is translucent, quarter table spoon of oyster sauce, add to taste
+
+#### Recipe 2:
+
+- mix in a bowl
+  - 2 tbsp oyster sauce
+  - 2 tbsp warm water
+- then sauté as much garlic as desired,
+- full teaspoon of sugar
+
+#### Recipe 3
+
+- panda express teriyaki sauce
 
 ---
 
 ### Bell peppers and onions
 
-- todo
+#### Sautee
+
+- sliced onions and bell peppers
+- olive oil
+- season to taste
 
 ---
 
 ### Onions and mushrooms
+
+#### Sautee
 
 - todo
 
 ---
 
 ### Cucumber and onion pico
+
+#### Mix in a bowl
 
 - English cucumber small
 - Red onion
@@ -347,6 +448,8 @@ document.getElementById('card-container').appendChild(card);
 
 ### Cucumber radish salad
 
+#### Link
+
 ![cucumberradishsalad](cucumberradishsalad.png)
 
 - [Cucumber Radish Salad link](https://downshiftology.com/recipes/cucumber-radish-salad/)
@@ -355,11 +458,15 @@ document.getElementById('card-container').appendChild(card);
 
 ### Orange sesame salad
 
-- https://www.instagram.com/reel/DFTl1XwSB20/?igsh=MXdnOGhsaG00cW81dw==
+#### Link
+
+- ![instagram link](https://www.instagram.com/reel/DFTl1XwSB20/?igsh=MXdnOGhsaG00cW81dw==)
 
 ---
 
 ### Sourdough mozzarella bruschetta
+
+#### Bake
 
 - olive oil
 - basil
@@ -372,6 +479,8 @@ document.getElementById('card-container').appendChild(card);
 
 ### Zucchini Salsa
 
+#### Blend
+
 - Jalapeño
 - Tomatillo
 - Cilantro
@@ -383,6 +492,8 @@ document.getElementById('card-container').appendChild(card);
 - Water
 
 ### Salad with mustard dressing lime
+
+#### Dressing
 
 - Lime
 - Mustard
@@ -510,7 +621,7 @@ document.getElementById('card-container').appendChild(card);
 
 ---
 
-1#### 0. Spinach and Pineapple Green Smoothie
+#### 10. Spinach and Pineapple Green Smoothie
 
 - Ingredients:
 - 1 cup spinach
@@ -520,73 +631,5 @@ document.getElementById('card-container').appendChild(card);
 - 1 tablespoon chia seeds
 
 ---
-
-### Chicken Gyro Wraps
-
-#### Tzatziki Sauce
-
-- cup Greek Yogurt
-- Salt
-- Pepper
-- 3 garlic cloves
-- tablespoon of olive oil
-- Juice of 1 lemon
-- cucumber grated AND strained
-- chopped dill
-
-#### Chicken Marinade
-
-- cup Greek Yogurt
-- Salt
-- Pepper
-- 3 garlic cloves
-- tablespoon of red wine vinegar
-- tablespoon of olive oil
-- teaspoon of ground coriander
-- tablespoon of oreagano
-- teaspoon of smoked paprika
-- Juice of 1 lemon
-
-#### Vegetable Meadly
-
-- 1 cucumber
-- 2 roma tomato
-- 1/2 red onion
-- 1 tablespoon red wine vinegar
-- 1/4 cup parsley
-- salt
-- pepper
-
----
-
-### Turkish pasta
-
-- ground beef
-- Pasta
-- Paprika
-- Curry powder
-- Onion powder
-- Salt/pepper
-- Yellow onion
-- Cherry Tomato
-- Parsley
-
-#### Sauce
-
-- Greek yogurt
-- Garlic
-- Sauce
-
-#### Butter sauce
-
-- melted butter
-- Dried mint
-- Olive oil
-- Chili flakes
-- Paprika
-
-#### Side
-
-Broccolini and carrots
 
 <a target="_blank" href="https://icons8.com/icon/123629/meal">Dinner</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
