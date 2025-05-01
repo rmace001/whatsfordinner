@@ -246,7 +246,7 @@ card.style.boxShadow = "0 4px 8px rgba(0, 0, 0, 0.1)";
 card.style.backgroundColor = "#ffffff";
 card.style.fontFamily = "Arial, sans-serif";
 card.style.textAlign = "center";
-
+console.log("length: ", mainDishes.length);
 let randomIndex = Math.floor(Math.random() * mainDishes.length);
 indicesUsed.add(randomIndex);
 // Create the heading
@@ -274,13 +274,17 @@ button.textContent = "Get New Dish";
 button.style.marginTop = "20px";
 
 button.addEventListener("click", function () {
+  console.log("random index: ", randomIndex);
+  console.log("used length", indicesUsed.size);
   randomIndex = Math.floor(Math.random() * mainDishes.length);
-  if (indicesUsed.length == mainDishes.length) {
+  if (indicesUsed.size == mainDishes.length) {
+    console.log("indicesUsed", ...indicesUsed);
     indicesUsed.clear();
   }
   while (indicesUsed.has(randomIndex)) {
     randomIndex = Math.floor(Math.random() * mainDishes.length);
   }
+  console.log("random index: ", randomIndex);
   indicesUsed.add(randomIndex);
 
   heading.textContent = `Dish suggestion: ${mainDishes[randomIndex].name}`;
