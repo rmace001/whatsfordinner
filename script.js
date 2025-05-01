@@ -257,6 +257,6 @@ button.addEventListener("click", function () {
   )}`;
 });
 
-card.appendChild(button);
+document.getElementById("update-rec-btn").appendChild(button);
 // Add the card to the container
 document.getElementById("card-container").appendChild(card);

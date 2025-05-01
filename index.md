@@ -1,6 +1,7 @@
 # What's for dinner?
 
 <!-- Placeholder where the card will be injected -->
+<div id="update-rec-btn"></div>
 <div id="card-container"></div>
 
 <script>
@@ -263,14 +264,14 @@ button.addEventListener("click", function () {
   )}`;
 });
 
-card.appendChild(button);
+document.getElementById("update-rec-btn").appendChild(button);
 // Add the card to the container
 document.getElementById("card-container").appendChild(card);
 
 </script>
 
-* TOC
-{:toc}
+- TOC
+  {:toc}
 
 ---
 
