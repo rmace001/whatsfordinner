@@ -251,7 +251,7 @@ let randomIndex = Math.floor(Math.random() * mainDishes.length);
 indicesUsed.add(randomIndex);
 // Create the heading
 const heading = document.createElement("h2");
-heading.textContent = `Dish suggestion: ${mainDishes[randomIndex].name}`;
+heading.textContent = mainDishes[randomIndex].name;
 heading.style.color = "#333333";
 card.appendChild(heading);
 
@@ -272,6 +272,25 @@ card.appendChild(columnsContainer);
 const button = document.createElement("button");
 button.textContent = "Get New Dish";
 button.style.marginTop = "20px";
+button.style.padding = "10px 20px";
+button.style.border = "none";
+button.style.borderRadius = "8px";
+button.style.backgroundColor = "#007BFF";
+button.style.color = "#ffffff";
+button.style.fontSize = "16px";
+button.style.cursor = "pointer";
+button.style.boxShadow = "0 4px 6px rgba(0, 0, 0, 0.1)";
+button.style.transition = "background-color 0.3s ease, transform 0.2s ease";
+
+button.addEventListener("mouseover", () => {
+  button.style.backgroundColor = "#0056b3";
+  button.style.transform = "scale(1.05)";
+});
+
+button.addEventListener("mouseout", () => {
+  button.style.backgroundColor = "#007BFF";
+  button.style.transform = "scale(1)";
+});
 
 button.addEventListener("click", function () {
   console.log("random index: ", randomIndex);
@@ -287,7 +306,7 @@ button.addEventListener("click", function () {
   console.log("random index: ", randomIndex);
   indicesUsed.add(randomIndex);
 
-  heading.textContent = `Dish suggestion: ${mainDishes[randomIndex].name}`;
+  heading.textContent = mainDishes[randomIndex].name;
   image.src = mainDishes[randomIndex].image;
   columnsContainer = createColumnsContainer();
   card.replaceChild(columnsContainer, card.lastChild);
