@@ -1,7 +1,7 @@
 const mainDishes = [
   {
     name: "Turkey lettuce wraps with cilantro lime yogurt sauce",
-    image: "IMG_3542.jpeg",
+    image: "IMG_3554.jpeg",
     turkey: ["Avocado oil", "Seasonings", "Cheese"],
     sauce: [
       "Greek yogurt plain",
