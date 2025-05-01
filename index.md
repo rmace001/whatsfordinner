@@ -270,8 +270,8 @@ document.getElementById("card-container").appendChild(card);
 
 </script>
 
-- TOC
-  {:toc}
+* TOC
+{:toc}
 
 ---
 
