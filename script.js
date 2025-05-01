@@ -234,6 +234,8 @@ const createColumnsContainer = () => {
   });
   return columnsContainer;
 };
+
+let indicesUsed = new Set([]);
 // Create the card element
 const card = document.createElement("div");
 card.style.maxWidth = "600px";
@@ -246,7 +248,7 @@ card.style.fontFamily = "Arial, sans-serif";
 card.style.textAlign = "center";
 
 let randomIndex = Math.floor(Math.random() * mainDishes.length);
-
+indicesUsed.add(randomIndex);
 // Create the heading
 const heading = document.createElement("h2");
 heading.textContent = `Dish suggestion: ${mainDishes[randomIndex].name}`;
@@ -273,6 +275,14 @@ button.style.marginTop = "20px";
 
 button.addEventListener("click", function () {
   randomIndex = Math.floor(Math.random() * mainDishes.length);
+  if (indicesUsed.length == mainDishes.length) {
+    indicesUsed.clear();
+  }
+  while (indicesUsed.has(randomIndex)) {
+    randomIndex = Math.floor(Math.random() * mainDishes.length);
+  }
+  indicesUsed.add(randomIndex);
+
   heading.textContent = `Dish suggestion: ${mainDishes[randomIndex].name}`;
   image.src = mainDishes[randomIndex].image;
   columnsContainer = createColumnsContainer();
